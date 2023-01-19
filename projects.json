@@ -1,14 +1,44 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "name": "Amazon Clone",
+      "live": "https://amazing-lily-47694b.netlify.app",
+      "git": "https://github.com/theonlykmac200/group-ecomm-frontend",
       "image": "http://www.imgur.com/pictureofproject.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "name": "Stock Tracking App",
+      "live": "https://aesthetic-gecko-d31d5c.netlify.app/",
+      "git": "https://github.com/theonlykmac200/Stocks",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "How to complain about the weather",
+      "live": "https://endearing-madeleine-f98865.netlify.app/",
+      "git": "https://github.com/theonlykmac200/Weather",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Joke Teller (Dev Jokes)",
+      "live": "https://iridescent-maamoul-f38038.netlify.app/",
+      "git": "https://github.com/theonlykmac200/Joke-Tellers",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "People App",
+      "live": "https://gentle-licorice-74934b.netlify.app/",
+      "git": "https://github.com/theonlykmac200/mern-react-people_frontend",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Trending Giphy",
+      "live": "https://friendly-nasturtium-df291f.netlify.app/",
+      "git": "https://github.com/theonlykmac200/GiphyFun",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Cities of the World",
+      "live": "https://clever-crostata-0151c9.netlify.app/",
+      "git": "https://github.com/theonlykmac200/react-cities",
       "image": "http://www.imgur.com/pictureofproject.png"
     }
   ]
