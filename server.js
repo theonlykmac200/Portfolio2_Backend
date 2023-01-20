@@ -30,6 +30,11 @@ app.get("/about", (req, res) => {
     res.json(about);  //send about via JSON
 });
 
+app.get("/", (req, res) => {
+    res.json(home);
+});
+
+
 // make the variable for the port
 const port = process.env.PORT || 4000;
 
