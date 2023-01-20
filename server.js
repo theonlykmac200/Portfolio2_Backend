@@ -30,7 +30,7 @@ app.get("/about", (req, res) => {
     res.json(about);  //send about via JSON
 });
 
-app.get("/", (req, res) => {
+app.get("/home", (req, res) => {
     res.json(home);
 });
 
