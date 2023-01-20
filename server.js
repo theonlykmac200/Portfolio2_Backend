@@ -5,6 +5,7 @@ const cors = require('cors');
 // Import JSON files
 const products = require("./projects.json")
 const about = require("./about.json")
+const home = require("./home.json")
 
 // Create our app object
 const app = express();
